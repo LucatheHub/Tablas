@@ -1,19 +1,11 @@
-body {
-    background-color: #40d0e0;
-}
-
 table {
     border: black 1px solid;
 }
 
 td {
-    background-color: aliceblue;
+    border: black 1px solid;
 }
 
 th {
-    background-color: darkgrey;
-}
-
-h2 {
-    color: crimson;
+    border: black 1px solid;
 }
